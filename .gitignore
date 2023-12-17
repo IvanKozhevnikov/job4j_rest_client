@@ -1,0 +1,3 @@
+# Project exclude paths
+/services/resttemplate/target/
+/services/source/target/
